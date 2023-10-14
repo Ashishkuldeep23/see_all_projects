@@ -7,7 +7,7 @@ function App() {
     <>
       <div style={ { height : "100vh" } } className=" bg-sky-300 text-center flex flex-col justify-center items-center text-white">
 
-        <h1 className=" text-3xl font-bold underline animate__animated animate__flip animate__slower animate__infinite ">
+        <h1 className=" text-3xl font-bold underline animate__animated animate__flip animate__slower animate__delay-1s animate__infinite ">
           I'll build this web app ASP
         </h1>
         <p className="text-red-500 font-bold mt-4">Stay connected 😊</p>
